@@ -16,11 +16,18 @@ public class Aula2TiposPrimitivos {
         short ageShort = 10;
         boolean verdadeiro = true;
         boolean falso = false;
-        char character = 1220;
+        char caractere = 1220;
 
         System.out.println("a idade é " + age +  " anos. ");
         System.out.println(false);
-        System.out.println(character);
+        System.out.println(caractere);
+        System.out.println(numberBig);
+        System.out.println(moneyDouble);
+        System.out.println(moneyFloat);
+        System.out.println(ageByte);
+        System.out.println(ageShort);
+        System.out.println(verdadeiro);
+        System.out.println(falso);
 
     }
 }
