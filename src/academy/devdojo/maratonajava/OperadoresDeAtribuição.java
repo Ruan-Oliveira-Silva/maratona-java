@@ -15,7 +15,6 @@ public class OperadoresDeAtribuição {
         contador++; // forma mais ou menos esperta;
         ++contador; // se colocar antes ele incrementa o valor primeiro e depois executa o código
         // no sout chamando o código contador.
-        int contador2 = 2;
 
         System.out.println(contador);
 
