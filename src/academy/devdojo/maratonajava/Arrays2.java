@@ -8,6 +8,7 @@ public class Arrays2 {
         // String null
 
         int[] idades = new int[3];
+        System.out.println(idades[2]);
 
     }
 }
