@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava;
 
 public class Arrays01 {
-    public class Arrays01 {
+
         public static void main(String[] args) {
 
             int [] idades = new int[3];
