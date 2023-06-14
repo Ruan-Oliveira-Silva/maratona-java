@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 
 public class OperadoresDeAtribuição {
     // = +=  -= *= %= /=     >>>>>> %= é resto, sendo resto sempre 0.0;

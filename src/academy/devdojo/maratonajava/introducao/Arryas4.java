@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 
 public class Arryas4 {
     public static void main(String[] args) {
