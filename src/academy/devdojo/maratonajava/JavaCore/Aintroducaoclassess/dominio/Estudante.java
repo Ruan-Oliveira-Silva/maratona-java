@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.JavaCore.introducaoclassess.dominio;
+package academy.devdojo.maratonajava.JavaCore.Aintroducaoclassess.dominio;
 
 public class Estudante {
     public String nome;
@@ -6,3 +6,4 @@ public class Estudante {
     public char sexo;
 
 }
+
