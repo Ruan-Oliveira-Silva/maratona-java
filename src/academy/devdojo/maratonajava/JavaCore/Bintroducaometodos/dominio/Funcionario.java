@@ -38,9 +38,6 @@ public class Funcionario {
         this.salarios = salarios;
     }
 
-    public void setMedia(double media) {
-        this.media = media;
-    }
 
     public String getNome() {
         return nome;
